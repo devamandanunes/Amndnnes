@@ -2,7 +2,7 @@
 
 - 👩‍💻 Meu foco é em front-end
 - 📚💻Sou estudante de Análise e Desenvolvimento de Sistemas 
-- 🎬Fã de Matrix e filmes que abordam viagem no tempo e ficção científica
+- 🎬Fã de Matrix e filmes que abordam viagem no tempo, multiverso e ficção científica
 - 😻🌴Apaixonada por gatos e pela natureza 
 
 
