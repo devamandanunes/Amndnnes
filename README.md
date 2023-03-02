@@ -1,6 +1,5 @@
 ### Oii, bem-vindes ao meu GitHub! Eu sou Amanda Nunes👋🥰
-
-- 👩‍💻Hello, welcome to my GitHub! 
+ 
 - 📚💻Sou estudante de Análise e Desenvolvimento de Sistemas;
 - 🎬Fã de Matrix e filmes que abordam viagem no tempo, multiverso e ficção científica;
 - 😻🌴Apaixonada por gatos e pela natureza.
