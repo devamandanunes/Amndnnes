@@ -1,4 +1,4 @@
-### Oii, bem-vindes ao meu GitHub! Eu sou Amanda Nunes👋🥰
+### Oii, bem-vindes ao meu GitHub!👋🥰
  
 - 📚💻Análise e Desenvolvimento de Sistemas;
 - 🎬Fã de filmes que abordam viagem no tempo, multiverso e cyberpunk;
